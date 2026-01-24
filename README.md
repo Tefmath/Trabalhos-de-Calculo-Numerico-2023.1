@@ -5,4 +5,4 @@ Professora Ângela Maria Silva Gonçalves
 
 Grupo: Stefane Moraes, Leonardo Barcelos
 
-São 2 questões em cada notebook envolvendo noções de Cálculo Numérico. O enuncido das questões estão nos próprios notebooks, mas em geral envolvem conceitos de Interpolação Polinomial, Ajuste de Curvas (Regressão Polinomial simples), Sistemas lineares, Métodos numéricos para EDOs, Método de Euler e mais outros abordados durante a disciplina.
+São 2 questões em cada notebook envolvendo noções de Cálculo Numérico. O enunciado das questões estão nos próprios notebooks, mas em geral envolvem conceitos de Interpolação Polinomial, Ajuste de Curvas (Regressão Polinomial simples), Sistemas lineares, Métodos numéricos para EDOs, Método de Euler e mais outros abordados durante a disciplina.
